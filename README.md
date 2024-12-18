@@ -14,10 +14,3 @@ I'm Vincent, a 24y/o DevOps engineer from Belgium. I’m passionate about Kubern
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=DB-Vincent&theme=radical)
-
-## 🎨 Profile Views
-![Profile views](https://gpvc.arturio.dev/DB-Vincent)
-
-<!--
-**DB-Vincent/DB-Vincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
